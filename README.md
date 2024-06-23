@@ -1,8 +1,9 @@
-##Bharat Intern DS Internship
+Bharat Intern DS Internship
 
 Welcome to the repository showcasing my data science internship projects completed at Bharat Intern! During my internship, I worked on two exciting projects that provided valuable insights into the realms of data science and machine learning.
 
 Task 1: Titanic Classification Project
+
 Overview
 Task 1 presented an exciting challenge: developing a predictive model to determine passenger survival likelihood aboard the Titanic. Leveraging Python and advanced data science techniques, I delved into historical data to analyze factors such as age, gender, and ticket class. The result? A robust model ready to navigate the seas of predictive analytics!
 
@@ -14,6 +15,7 @@ GitHub Repository
 Find the code and data related to this Task in the Titanic Classification GitHub Repository.
 
 Task 2: SMS Classifier Project
+
 Overview
 Task 2 propelled me into the world of text classification, where I tackled the intricate task of distinguishing spam from non-spam SMS messages. Armed with Python prowess and NLP techniques, I crafted a model to sift through messages with precision. The goal? To streamline communication and enhance efficiency!
 
