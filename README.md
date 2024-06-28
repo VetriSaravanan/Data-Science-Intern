@@ -31,4 +31,16 @@ My journey with Bharat Intern has been nothing short of phenomenal! From unravel
 
 Your feedback and contributions to these projects are highly appreciated as I continue to grow and refine my skills in the field of data science.
 
+Task 3 Bharat Intern : Cat and Dog Image Classifier 🐱🐶
+
+Objective: Develop an image classification model to distinguish between images of cats and dogs using data science techniques in Python.
+
+Key Steps:
+1. Data Collection: Utilized Kaggle dataset containing images of cats and dogs.
+2.TensorFlow Implementation: Implemented TensorFlow for building and training the image classification model.
+3.Generators from Keras: Employed Keras generators to efficiently load and preprocess images during training, crucial for handling large datasets.
+4. CNN Model Design: Developed a Convolutional Neural Network (CNN), a specialized architecture for effective image classification tasks.
+
+
+
 Let's connect and collaborate! 🚀🌟 #DataScience #MachineLearning #BharatInternship
